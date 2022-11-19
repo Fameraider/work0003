@@ -2,12 +2,15 @@
   "name": "work0003",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "เอสเอเกมมิ่ง เว็บคาสิโนออนไลน์อันดับ 1 ฝากถอนไม่มีขั้นต่ำ",
   "keywords": [
-    "syntax",
-    "theme"
+    "เอสเอเกมมิ่ง",
+    "บาคาร่า",
+    "เกมไฮโล",
+    "ป๊อกเด้ง",
+    "Sa gaming คาสิโน"
   ],
-  "repository": "https://github.com/atom/work0003",
+  "repository": "https://github.com/Fameraider/work0003",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
